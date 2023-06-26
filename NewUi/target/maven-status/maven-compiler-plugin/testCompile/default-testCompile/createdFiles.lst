@@ -1,0 +1,8 @@
+com\convo\Testcases\BaseClass.class
+com\convo\pageobjects\AnalyticsPage.class
+com\convo\Testcases\TC_LoginDDT_001.class
+com\convo\utilities\ReadConfig.class
+com\convo\utilities\Reporting.class
+com\convo\utilities\XLUtils.class
+com\convo\Testcases\TC_LoginTest_001.class
+com\convo\pageobjects\LoginPage.class
